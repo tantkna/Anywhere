@@ -1,7 +1,8 @@
-package com.vtapp.anywhere
+package com.vtapp.anywhere.ui.main
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.vtapp.anywhere.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
